@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
+header: "Expertos para ti"
+subheader: "Integradores de proyectos de Ingenería para telecomunicaciones!"
+imageFileName: "background.jpg"
 jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchorText: " Quiero saber más"
 ---

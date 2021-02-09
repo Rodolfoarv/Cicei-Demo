@@ -1,12 +1,12 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Cicei 2020"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "Privacy Policy"
+privacyText: "Política de privacidad"
 privacyHref: "#!"
-termsText: "Terms of Use"
+termsText: "Términos y condiciones"
 termsHref: "#!"
 ---

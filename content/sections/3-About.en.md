@@ -1,34 +1,35 @@
 ---
-anchor: "About"
-header: "About"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "Nuestra historia"
+header: "Nuestra historia"
+subheader: "Forma parte de ella"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "2013",
+    subheader: "Comienzo",
+    content: "CICEI Soluciones SA de CV es una empresa fundada en 2013  dedicada proporcionar consultoría de calidad, Ingeniería, capacitación e Instalaciones de tecnologías de la información y de telecomunicaciones, ofreciendo SOLUCIONES integrales basadas en las nuevas tendencias tecnológicas.
+"
   },
   {
     imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Marzo 2015",
+    subheader: "Nuestro ... ",
+    content: "La mejor empresa en telecomunicaciones"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Diciembre 2016",
+    subheader: "Texto...",
+    content: "Expertos en diseñar soluciones estratégicas, cerramos el proyecto ... "
   },
   {
     imageFileName: "about/4.jpg",
-    header: "July 2014",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Diciembre 2017",
+    subheader: "Fase 2: Expansión",
+    content: "Obtuvimos un convenio con la empresa más importante de LATM"
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "¡Sé parte\r\nde nuestra\r\nhistoria!"
   }
 ]
 ---

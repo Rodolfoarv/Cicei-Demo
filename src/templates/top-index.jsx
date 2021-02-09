@@ -7,7 +7,7 @@ import Top from "views/Top";
 import Footer from "views/Footer";
 import * as Sections from "views/Sections";
 import SEO from "components/SEO";
-import LanguageSelector from "components/LanguageSelector";
+
 
 import "utils/fixFontAwesome";
 import breakDownAllNodes from "utils/breakDownAllNodes";
@@ -113,12 +113,7 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
 
   const { topNode, navBarNode, anchors, footerNode, sectionsNodes } = breakDownAllNodes(nodes);
 
-  let langSelectorPart;
-  if (langTextMap != null && Object.keys(langTextMap).length > 1) {
-    langSelectorPart = (
-      <LanguageSelector langKey={langKey} defaultLang={defaultLang} langTextMap={langTextMap} />
-    );
-  }
+
 
   return (
     <>
@@ -126,7 +121,7 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
       <Navbar
         anchors={anchors}
         frontmatter={navBarNode.frontmatter}
-        extraItems={langSelectorPart}
+
       />
       <Top frontmatter={topNode.frontmatter} />
       {

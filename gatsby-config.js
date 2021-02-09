@@ -22,7 +22,7 @@ module.exports = {
         short_name: "Agency",
         start_url: "/",
         background_color: "#ffffff",
-        theme_color: "#fed136",
+        theme_color: "#0057d9",
         display: "minimal-ui",
         icon: "content/assets/gatsby-icon.png",
       },
